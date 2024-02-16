@@ -94,8 +94,8 @@ importers:
         specifier: ^4.20230724.0
         version: 4.20230821.0
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -109,8 +109,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -136,8 +136,8 @@ importers:
         specifier: 3.20231030.4
         version: link:../../packages/miniflare
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -151,8 +151,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -166,8 +166,8 @@ importers:
         specifier: ^4.20221111.1
         version: 4.20230821.0
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -184,8 +184,8 @@ importers:
         specifier: ^8.2.1
         version: 8.2.1
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -200,8 +200,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -252,8 +252,8 @@ importers:
         specifier: ^4.20221111.1
         version: 4.20230821.0
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -264,8 +264,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -282,8 +282,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -294,8 +294,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -309,8 +309,8 @@ importers:
         specifier: ^4.20221111.1
         version: 4.20230821.0
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -333,8 +333,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -348,8 +348,8 @@ importers:
         specifier: ^4.20221111.1
         version: 4.20230821.0
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -360,8 +360,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -372,8 +372,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -384,8 +384,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -396,8 +396,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -408,8 +408,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.9.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -444,8 +444,8 @@ importers:
         specifier: ^17.0.2
         version: 17.0.2(react@17.0.2)
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
     devDependencies:
       '@cloudflare/workers-tsconfig':
         specifier: workspace:*
@@ -497,8 +497,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -527,8 +527,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -582,8 +582,8 @@ importers:
         specifier: ^8.6.11
         version: 8.6.11
       undici:
-        specifier: 5.20.0
-        version: 5.20.0
+        specifier: 5.28.3
+        version: 5.28.3
 
   packages/create-cloudflare:
     devDependencies:
@@ -687,8 +687,8 @@ importers:
         specifier: ^5.0.2
         version: 5.0.3
       undici:
-        specifier: 5.20.0
-        version: 5.20.0
+        specifier: 5.28.3
+        version: 5.28.3
       vite-tsconfig-paths:
         specifier: ^4.0.8
         version: 4.2.0(typescript@5.0.3)(vite@4.3.9)
@@ -807,8 +807,8 @@ importers:
         specifier: ^1.1.0
         version: 1.1.0
       undici:
-        specifier: ^5.22.1
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       workerd:
         specifier: 1.20231030.0
         version: 1.20231030.0
@@ -975,11 +975,11 @@ importers:
         specifier: ^3.2.2
         version: 3.2.2(patch_hash=dxprwy4mawdnq3drjhp7shhm2m)
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       wrangler:
         specifier: ^3.5.1
-        version: link:../wrangler
+        version: 3.28.2(@cloudflare/workers-types@4.20230821.0)
 
   packages/prerelease-registry:
     dependencies:
@@ -1206,8 +1206,8 @@ importers:
         specifier: ^5.0.2
         version: 5.0.3
       undici:
-        specifier: ^5.23.0
-        version: 5.23.0
+        specifier: ^5.28.3
+        version: 5.28.3
       vite-plugin-rewrite-all:
         specifier: ^1.0.1
         version: 1.0.1(vite@4.3.9)
@@ -1528,8 +1528,8 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
       undici:
-        specifier: 5.20.0
-        version: 5.20.0
+        specifier: 5.28.3
+        version: 5.28.3
       update-check:
         specifier: ^1.5.4
         version: 1.5.4
@@ -1553,7 +1553,7 @@ importers:
         version: 6.5.1
       wrangler:
         specifier: ^3.0.0
-        version: link:../wrangler
+        version: 3.28.2(@cloudflare/workers-types@4.20230821.0)
 
 packages:
 
@@ -3600,6 +3600,12 @@ packages:
       mime: 3.0.0
     dev: true
 
+  /@cloudflare/kv-asset-handler@0.3.1:
+    resolution: {integrity: sha512-lKN2XCfKCmpKb86a1tl4GIwsJYDy9TGuwjhDELLmpKygQhw8X2xR4dusgpC5Tg7q1pB96Eb0rBo81kxSILQMwA==}
+    dependencies:
+      mime: 3.0.0
+    dev: true
+
   /@cloudflare/style-const@5.7.3(react@18.2.0):
     resolution: {integrity: sha512-N9Y8bcFXoO7htm+sSVsBmQOVbjLeEY2hy1CBmvt0AoH1zWvs3izwJrnlL0ee4kJ6DkyjaY6SIAkUGUtTOApF3Q==}
     peerDependencies:
@@ -3703,6 +3709,15 @@ packages:
     dev: false
     optional: true
 
+  /@cloudflare/workerd-darwin-64@1.20240129.0:
+    resolution: {integrity: sha512-DfVVB5IsQLVcWPJwV019vY3nEtU88c2Qu2ST5SQxqcGivZ52imagLRK0RHCIP8PK4piSiq90qUC6ybppUsw8eg==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
   /@cloudflare/workerd-darwin-arm64@1.20231030.0:
     resolution: {integrity: sha512-WSJJjm11Del4hSneiNB7wTXGtBXI4QMCH9l5qf4iT5PAW8cESGcCmdHtWDWDtGAAGcvmLT04KNvmum92vRKKQQ==}
     engines: {node: '>=16'}
@@ -3710,6 +3725,15 @@ packages:
     os: [darwin]
     requiresBuild: true
     dev: false
+    optional: true
+
+  /@cloudflare/workerd-darwin-arm64@1.20240129.0:
+    resolution: {integrity: sha512-t0q8ABkmumG1zRM/MZ/vIv/Ysx0vTAXnQAPy/JW5aeQi/tqrypXkO9/NhPc0jbF/g/hIPrWEqpDgEp3CB7Da7Q==}
+    engines: {node: '>=16'}
+    cpu: [arm64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
     optional: true
 
   /@cloudflare/workerd-linux-64@1.20231030.0:
@@ -3721,6 +3745,15 @@ packages:
     dev: false
     optional: true
 
+  /@cloudflare/workerd-linux-64@1.20240129.0:
+    resolution: {integrity: sha512-sFV1uobHgDI+6CKBS/ZshQvOvajgwl6BtiYaH4PSFSpvXTmRx+A9bcug+6BnD+V4WgwxTiEO2iR97E1XuwDAVw==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
   /@cloudflare/workerd-linux-arm64@1.20231030.0:
     resolution: {integrity: sha512-4/GK5zHh+9JbUI6Z5xTCM0ZmpKKHk7vu9thmHjUxtz+o8Ne9DoD7DlDvXQWgMF6XGaTubDWyp3ttn+Qv8jDFuQ==}
     engines: {node: '>=16'}
@@ -3730,6 +3763,15 @@ packages:
     dev: false
     optional: true
 
+  /@cloudflare/workerd-linux-arm64@1.20240129.0:
+    resolution: {integrity: sha512-O7q7htHaFRp8PgTqNJx1/fYc3+LnvAo6kWWB9a14C5OWak6AAZk42PNpKPx+DXTmGvI+8S1+futBGUeJ8NPDXg==}
+    engines: {node: '>=16'}
+    cpu: [arm64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
   /@cloudflare/workerd-windows-64@1.20231030.0:
     resolution: {integrity: sha512-fb/Jgj8Yqy3PO1jLhk7mTrHMkR8jklpbQFud6rL/aMAn5d6MQbaSrYOCjzkKGp0Zng8D2LIzSl+Fc0C9Sggxjg==}
     engines: {node: '>=16'}
@@ -3737,6 +3779,15 @@ packages:
     os: [win32]
     requiresBuild: true
     dev: false
+    optional: true
+
+  /@cloudflare/workerd-windows-64@1.20240129.0:
+    resolution: {integrity: sha512-YqGno0XSqqqkDmNoGEX6M8kJlI2lEfWntbTPVtHaZlaXVR9sWfoD7TEno0NKC95cXFz+ioyFLbgbOdnfWwmVAA==}
+    engines: {node: '>=16'}
+    cpu: [x64]
+    os: [win32]
+    requiresBuild: true
+    dev: true
     optional: true
 
   /@cloudflare/workers-types@3.18.0:
@@ -3807,7 +3858,6 @@ packages:
       esbuild: '*'
     dependencies:
       esbuild: 0.17.19
-    dev: false
 
   /@esbuild-plugins/node-modules-polyfill@0.2.2(esbuild@0.17.19):
     resolution: {integrity: sha512-LXV7QsWJxRuMYvKbiznh+U1ilIop3g2TeKRzUxOG5X3YITc8JyyTa90BmLwqqv0YnX4v32CSlG+vsziZp9dMvA==}
@@ -3817,7 +3867,6 @@ packages:
       esbuild: 0.17.19
       escape-string-regexp: 4.0.0
       rollup-plugin-node-polyfills: 0.2.1
-    dev: false
 
   /@esbuild/android-arm64@0.16.17:
     resolution: {integrity: sha512-MIGl6p5sc3RDTLLkYL1MyL8BMRN4tLMRCn+yRJJmEDvYZ2M7tmAf80hx1kbNEUX2KJ50RRtxZ4JHLvCfuB6kBg==}
@@ -4855,6 +4904,10 @@ packages:
   /@eslint/js@8.49.0:
     resolution: {integrity: sha512-1S8uAY/MTJqVx0SC4epBq+N2yhuwtNwLbJYNZyhL2pO1ZVKn5HFXav5T41Ryzy9K9V7ZId2JB2oy/W4aCd9/2w==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+
+  /@fastify/busboy@2.1.0:
+    resolution: {integrity: sha512-+KpH+QxZU7O4675t3mnkQKcZZg56u+K/Ct2K+N2AZYNVK8kyeo/bI18tI8aPm3tvNNRyTWfj6s5tnGNlcbQRsA==}
+    engines: {node: '>=14'}
 
   /@gar/promisify@1.1.3:
     resolution: {integrity: sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==}
@@ -7773,7 +7826,6 @@ packages:
     resolution: {integrity: sha512-xvsWESUJn0JN421Xb9MQw6AsMHRCUknCe0Wjlxvjud80mU4E6hQf1A6NzQKcYNmYw62MfzEtXc+badstZP3JpQ==}
     dependencies:
       printable-characters: 1.0.42
-    dev: false
 
   /assert@2.0.0:
     resolution: {integrity: sha512-se5Cd+js9dXJnu6Ag2JFc00t+HmHOen+8Q+L7O9zI0PqQXr20uk2J0XQqMxZEeo5U50o8Nvmmx7dZrl+Ufr35A==}
@@ -8131,7 +8183,6 @@ packages:
 
   /blake3-wasm@2.1.5:
     resolution: {integrity: sha512-F1+K8EbfOZE49dtoPtmxUQrpXaBIl3ICvasLh+nJta0xkz+9kF/7uet9fLnwKqhDrmj6g+6K3Tw9yQPUg2ka5g==}
-    dev: false
 
   /blueimp-md5@2.19.0:
     resolution: {integrity: sha512-DRQrD6gJyy8FbiE4s+bDoXS9hiW3Vbx5uCdwvcCf3zLHL+Iv7LtGHLpr+GZV8rHG8tK766FGYBwRbu8pELTt+w==}
@@ -8267,12 +8318,6 @@ packages:
       run-applescript: 5.0.0
     dev: true
 
-  /busboy@1.6.0:
-    resolution: {integrity: sha512-8SFQbg/0hQ9xy3UNTB0YEnsNBbWfhf7RtnzpL7TkBiTBRfrQ9Fxcnz7VJsleJpyp6rVLvXiuORqjlHi5q+PYuA==}
-    engines: {node: '>=10.16.0'}
-    dependencies:
-      streamsearch: 1.1.0
-
   /bytes@3.1.2:
     resolution: {integrity: sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==}
     engines: {node: '>= 0.8'}
@@ -8403,7 +8448,6 @@ packages:
       tslib: 2.5.3
     transitivePeerDependencies:
       - supports-color
-    dev: false
     patched: true
 
   /capnpc-ts@0.7.0:
@@ -9116,7 +9160,6 @@ packages:
 
   /data-uri-to-buffer@2.0.2:
     resolution: {integrity: sha512-ND9qDTLc6diwj+Xe5cdAgVTbLVdXbtxTJRXRhli8Mowuaan+0EJOtdqJ0QCHNSSPyoXGx9HX2/VMnKeC34AChA==}
-    dev: false
 
   /data-uri-to-buffer@3.0.1:
     resolution: {integrity: sha512-WboRycPNsVw3B3TL559F7kuBUM4d8CgMEvk6xEJlOp7OBPjt6G7z8WMWlD2rOFZLk6OYfFIUGsCOWzcQH9K2og==}
@@ -10661,7 +10704,6 @@ packages:
 
   /estree-walker@0.6.1:
     resolution: {integrity: sha512-SqmZANLWS0mnatqbSfRP5g8OXZC12Fgg1IwNtLsyHDzJizORW4khDfjPqJZsemPWBB2uqykUah5YpQ6epsqC/w==}
-    dev: false
 
   /estree-walker@2.0.2:
     resolution: {integrity: sha512-Rfkk/Mp/DL7JVje3u18FxFujQlTNR2q6QfMSMB7AvCBx91NGj/ba3kCfza0f6dVDbw7YlRf/nDrn7pQrCCyQ/w==}
@@ -11338,7 +11380,6 @@ packages:
     dependencies:
       data-uri-to-buffer: 2.0.2
       source-map: 0.6.1
-    dev: false
 
   /get-stream@4.1.0:
     resolution: {integrity: sha512-GMat4EJ5161kIy2HevLlr4luNjBgvmj413KaQA7jt4V8B4RDsfpHk7WQ9GVqfYyyx8OS/L66Kox+rJRNklLK7w==}
@@ -13628,7 +13669,6 @@ packages:
     resolution: {integrity: sha512-RmF0AsMzgt25qzqqLc1+MbHmhdx0ojF2Fvs4XnOqz2ZOBXzzkEwc/dJQZCYHAn7v1jbVOjAZfK8msRn4BxO4VQ==}
     dependencies:
       sourcemap-codec: 1.4.8
-    dev: false
 
   /magic-string@0.30.3:
     resolution: {integrity: sha512-B7xGbll2fG/VjP+SWg4sX3JynwIU0mjoTc6MPpKNuIvftk6u6vqhDnk1R80b8C2GBR6ywqy+1DcKBrevBg+bmw==}
@@ -14235,6 +14275,29 @@ packages:
     engines: {node: '>=4'}
     dev: false
 
+  /miniflare@3.20240129.2:
+    resolution: {integrity: sha512-BPUg8HsPmWQlRFUeiQk274i8M9L0gOvzbkjryuTvCX+M53EwBpP0gM2wyrRr/HokQoJcxWGh3InBu6L8+0bbPw==}
+    engines: {node: '>=16.13'}
+    hasBin: true
+    dependencies:
+      '@cspotcode/source-map-support': 0.8.1
+      acorn: 8.10.0
+      acorn-walk: 8.2.0
+      capnp-ts: 0.7.0(patch_hash=l4yimnxyvkiyj6alnps2ec3sii)
+      exit-hook: 2.2.1
+      glob-to-regexp: 0.4.1
+      stoppable: 1.1.0
+      undici: 5.28.3
+      workerd: 1.20240129.0
+      ws: 8.14.2
+      youch: 3.2.3
+      zod: 3.22.3
+    transitivePeerDependencies:
+      - bufferutil
+      - supports-color
+      - utf-8-validate
+    dev: true
+
   /minimatch@3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
     dependencies:
@@ -14516,7 +14579,6 @@ packages:
   /node-forge@1.3.0:
     resolution: {integrity: sha512-08ARB91bUi6zNKzVmaj3QO7cr397uiDT2nJ63cHjyNtCTWIgvS47j3eT0WfzUwS9+6Z5YshRaoasFkXCKrIYbA==}
     engines: {node: '>= 6.13.0'}
-    dev: false
 
   /node-int64@0.4.0:
     resolution: {integrity: sha512-O5lz91xSOeoXP6DulyHfllpq+Eg00MWitZIbtPfoSEvqIHdl5gfcY6hYzDWnj0qD5tz52PI08u9qUvSVeUBeHw==}
@@ -15490,7 +15552,6 @@ packages:
 
   /printable-characters@1.0.42:
     resolution: {integrity: sha512-dKp+C4iXWK4vVYZmYSd0KBH5F/h1HoZRsbJ82AVKRO3PEo8L4lBS/vLwhVtpwwuYcoIsVY+1JYKR268yn480uQ==}
-    dev: false
 
   /prism-react-renderer@1.3.5(react@18.2.0):
     resolution: {integrity: sha512-IJ+MSwBWKG+SM3b2SUfdrhC+gu01QkV2KmRQgREThBfSQRoufqRfxfHUxpG1WcaFjP+kojcFyO9Qqtpgt3qLCg==}
@@ -16268,6 +16329,15 @@ packages:
       path-parse: 1.0.7
       supports-preserve-symlinks-flag: 1.0.0
 
+  /resolve@1.22.8:
+    resolution: {integrity: sha512-oKWePCxqpd6FlLvGV1VU0x7bkPmmCNolxzjMf4NczoDnQcIWrAF+cPtZn5i6n+RfD2d9i0tzpKnG6Yk168yIyw==}
+    hasBin: true
+    dependencies:
+      is-core-module: 2.13.0
+      path-parse: 1.0.7
+      supports-preserve-symlinks-flag: 1.0.0
+    dev: true
+
   /resolve@2.0.0-next.4:
     resolution: {integrity: sha512-iMDbmAWtfU+MHpxt/I5iWI7cY6YVEZUQ3MBgPQ++XD1PELuJHIl82xBmObyP2KyQmkNB2dsqF7seoQQiAn5yDQ==}
     hasBin: true
@@ -16351,19 +16421,16 @@ packages:
       estree-walker: 0.6.1
       magic-string: 0.25.9
       rollup-pluginutils: 2.8.2
-    dev: false
 
   /rollup-plugin-node-polyfills@0.2.1:
     resolution: {integrity: sha512-4kCrKPTJ6sK4/gLL/U5QzVT8cxJcofO0OU74tnB19F40cmuAKSzH5/siithxlofFEjwvw1YAhPmbvGNA6jEroA==}
     dependencies:
       rollup-plugin-inject: 3.0.2
-    dev: false
 
   /rollup-pluginutils@2.8.2:
     resolution: {integrity: sha512-EEp9NhnUkwY8aif6bxgovPHMoMoNr2FulJziTndpt5H9RdwC47GSGuII9XxpSdzVGM0GWrNPHV6ie1LTNJPaLQ==}
     dependencies:
       estree-walker: 0.6.1
-    dev: false
 
   /rollup@3.25.1:
     resolution: {integrity: sha512-tywOR+rwIt5m2ZAWSe5AIJcTat8vGlnPFAv15ycCrw33t6iFsXZ6mzHVFh2psSjxQPmI+xgzMZZizUAukBI4aQ==}
@@ -16498,7 +16565,6 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       node-forge: 1.3.0
-    dev: false
 
   /semiver@1.1.0:
     resolution: {integrity: sha512-QNI2ChmuioGC1/xjyYwyZYADILWyW6AmS1UH6gDj/SFUUUS4MBAWs/7mxnkRPc/F4iHezDP+O8t0dO8WHiEOdg==}
@@ -16884,7 +16950,6 @@ packages:
   /sourcemap-codec@1.4.8:
     resolution: {integrity: sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==}
     deprecated: Please use @jridgewell/sourcemap-codec instead
-    dev: false
 
   /space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
@@ -16963,7 +17028,6 @@ packages:
     dependencies:
       as-table: 1.0.55
       get-source: 2.0.12
-    dev: false
 
   /standard-as-callback@2.1.0:
     resolution: {integrity: sha512-qoRRSyROncaz1z0mvYqIE4lCd9p2R90i6GxW3uZv5ucSu8tU7B5HXUP1gG8pVZsYNVaXjk8ClXHPttLyxAL48A==}
@@ -16989,7 +17053,6 @@ packages:
   /stoppable@1.1.0:
     resolution: {integrity: sha512-KXDYZ9dszj6bzvnEMRYvxgeTHU74QBFL54XKtP3nyMuJ81CFYtABZ3bAzL2EdFUaEwJOBOgENyFj3R7oTzDyyw==}
     engines: {node: '>=4', npm: '>=6'}
-    dev: false
 
   /stream-shift@1.0.1:
     resolution: {integrity: sha512-AiisoFqQ0vbGcZgQPY1cdP2I76glaVA/RauYR4G4thNFgkTqr90yXTo4LYX60Jl+sIlPNHHdGSwo01AvbKUSVQ==}
@@ -17000,10 +17063,6 @@ packages:
     dependencies:
       mixme: 0.5.4
     dev: false
-
-  /streamsearch@1.1.0:
-    resolution: {integrity: sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==}
-    engines: {node: '>=10.0.0'}
 
   /strict-event-emitter@0.2.8:
     resolution: {integrity: sha512-KDf/ujU8Zud3YaLtMCcTI4xkZlZVIYxTLr+XIULexP+77EEVWixeXroLUXQXiVtH4XH2W7jr/3PT1v3zBuvc3A==}
@@ -17847,18 +17906,11 @@ packages:
       has-symbols: 1.0.3
       which-boxed-primitive: 1.0.2
 
-  /undici@5.20.0:
-    resolution: {integrity: sha512-J3j60dYzuo6Eevbawwp1sdg16k5Tf768bxYK4TUJRH7cBM4kFCbf3mOnM/0E3vQYXvpxITbbWmBafaDbxLDz3g==}
-    engines: {node: '>=12.18'}
-    dependencies:
-      busboy: 1.6.0
-    dev: true
-
-  /undici@5.23.0:
-    resolution: {integrity: sha512-1D7w+fvRsqlQ9GscLBwcAJinqcZGHUKjbOmXdlE/v8BvEGXjeWAax+341q44EuTcHXXnfyKNbKRq4Lg7OzhMmg==}
+  /undici@5.28.3:
+    resolution: {integrity: sha512-3ItfzbrhDlINjaP0duwnNsKpDQk3acHI3gVJ1z4fmwMK31k5G9OVIAMLSIaP6w4FaGkaAkN6zaQO9LUvZ1t7VA==}
     engines: {node: '>=14.0'}
     dependencies:
-      busboy: 1.6.0
+      '@fastify/busboy': 2.1.0
 
   /unicode-canonical-property-names-ecmascript@2.0.0:
     resolution: {integrity: sha512-yY5PpDlfVIU5+y/BSCxAJRBIS1Zc2dDG3Ujq+sR0U+JjUevW2JhocOF+soROYDSaAezOzOKuyyixhD6mBknSmQ==}
@@ -18526,6 +18578,52 @@ packages:
       '@cloudflare/workerd-windows-64': 1.20231030.0
     dev: false
 
+  /workerd@1.20240129.0:
+    resolution: {integrity: sha512-t4pnsmjjk/u+GdVDgH2M1AFmJaBUABshYK/vT/HNrAXsHSwN6VR8Yqw0JQ845OokO34VLkuUtYQYyxHHKpdtsw==}
+    engines: {node: '>=16'}
+    hasBin: true
+    requiresBuild: true
+    optionalDependencies:
+      '@cloudflare/workerd-darwin-64': 1.20240129.0
+      '@cloudflare/workerd-darwin-arm64': 1.20240129.0
+      '@cloudflare/workerd-linux-64': 1.20240129.0
+      '@cloudflare/workerd-linux-arm64': 1.20240129.0
+      '@cloudflare/workerd-windows-64': 1.20240129.0
+    dev: true
+
+  /wrangler@3.28.2(@cloudflare/workers-types@4.20230821.0):
+    resolution: {integrity: sha512-hlD4f2avBZuR1+qo9Um6D1prdWrSRtGTo9h6o/AKce+bHQEJWoJgJKHeLmrpZlLtHg/gGR1Xa1xzrexhuIzeJw==}
+    engines: {node: '>=16.17.0'}
+    hasBin: true
+    peerDependencies:
+      '@cloudflare/workers-types': ^4.20230914.0
+    peerDependenciesMeta:
+      '@cloudflare/workers-types':
+        optional: true
+    dependencies:
+      '@cloudflare/kv-asset-handler': 0.3.1
+      '@cloudflare/workers-types': 4.20230821.0
+      '@esbuild-plugins/node-globals-polyfill': 0.2.3(esbuild@0.17.19)
+      '@esbuild-plugins/node-modules-polyfill': 0.2.2(esbuild@0.17.19)
+      blake3-wasm: 2.1.5
+      chokidar: 3.5.3
+      esbuild: 0.17.19
+      miniflare: 3.20240129.2
+      nanoid: 3.3.6
+      path-to-regexp: 6.2.0
+      resolve: 1.22.8
+      resolve.exports: 2.0.2
+      selfsigned: 2.1.1
+      source-map: 0.6.1
+      xxhash-wasm: 1.0.1
+    optionalDependencies:
+      fsevents: 2.3.2
+    transitivePeerDependencies:
+      - bufferutil
+      - supports-color
+      - utf-8-validate
+    dev: true
+
   /wrap-ansi@6.2.0:
     resolution: {integrity: sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA==}
     engines: {node: '>=8'}
@@ -18675,7 +18773,6 @@ packages:
 
   /xxhash-wasm@1.0.1:
     resolution: {integrity: sha512-Lc9CTvDrH2vRoiaUzz25q7lRaviMhz90pkx6YxR9EPYtF99yOJnv2cB+CQ0hp/TLoqrUsk8z/W2EN31T568Azw==}
-    dev: false
 
   /y18n@4.0.3:
     resolution: {integrity: sha512-JKhqTOwSrqNA1NY5lSztJ1GrBiUodLMmIZuLiDaMRJ+itFd+ABVE8XBjOvIWL+rSqNDC74LCSFmlb/U4UZ4hJQ==}
@@ -18795,7 +18892,6 @@ packages:
       cookie: 0.5.0
       mustache: 4.2.0
       stacktracey: 2.1.8
-    dev: false
 
   /z-schema@5.0.3:
     resolution: {integrity: sha512-sGvEcBOTNum68x9jCpCVGPFJ6mWnkD0YxOcddDlJHRx3tKdB2q8pCHExMVZo/AV/6geuVJXG7hljDaWG8+5GDw==}
